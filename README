@@ -1,0 +1,4 @@
+A Java Servlet that generates DOCX Files from Salesforce Content.
+
+In Salesforce, you can have a Custom Link from where you can invoke this Java Servlet. The Servlet
+generates a DOCX file and you can download it immediately on your local computer.
